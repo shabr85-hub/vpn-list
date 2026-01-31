@@ -11,3 +11,7 @@ IP-CIDR,224.0.0.0/4
 IP-CIDR,::1/128
 IP-CIDR,fc00::/7
 IP-CIDR,fe80::/10
+
+
+DOMAIN-SUFFIX,githubusercontent.com #Гитхаб
+DOMAIN-SUFFIX,x-plarium.com
