@@ -1,7 +1,7 @@
 #DOMAIN-SUFFIX,googlesyndication.com
 #DOMAIN-SUFFIX,googleadservices.com
 #DOMAIN-SUFFIX,doubleclick.net
-# DOMAIN-SUFFIX,split.io
+#DOMAIN-SUFFIX,split.io
 
 DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
