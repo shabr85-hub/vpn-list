@@ -13,6 +13,7 @@ IP-CIDR,fc00::/7
 IP-CIDR,fe80::/10
 
 DOMAIN-SUFFIX,githubusercontent.com #Гитхаб
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,x-plarium.com
 DOMAIN-SUFFIX,plarium.com
 
