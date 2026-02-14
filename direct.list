@@ -14,4 +14,6 @@ IP-CIDR,fe80::/10
 
 DOMAIN-SUFFIX,githubusercontent.com #Гитхаб
 DOMAIN-SUFFIX,x-plarium.com
+DOMAIN-SUFFIX,plarium.com
+
 DOMAIN-SUFFIX,i.ytimg.com #служебный поддомен YouTube (Google).
