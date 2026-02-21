@@ -1,4 +1,5 @@
 GEOIP,RU
+GEOIP,KZ
 
 ## Все локальные направления
 DOMAIN-SUFFIX,local
