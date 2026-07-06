@@ -1,3 +1,11 @@
 # Google
 IP-CIDR,85.249.244.0/23
 DOMAIN-SUFFIX,googlevideo.com
+geoip:telegram
+geoip:google
+geoip:cloudflare
+geoip:facebook
+geoip:fastly
+geoip:netflix
+geoip:cloudfront
+geoip:twitter  
